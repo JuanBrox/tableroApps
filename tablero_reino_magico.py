@@ -11,7 +11,6 @@ MATERIAS = [
         ("✖️", "Tablas de multiplicar", "Todas las tablas del 1 al 10.", "https://tablasmultiplicar.streamlit.app/"),
         ("🏛️", "Números romanos", "Aprende y practica los ejercicios de la libreta.", "https://numerosromanos.streamlit.app/"),
         ("🎲", "Tu tablero de juego", "Tablero mágico con puntos y normas.", "https://juegomates.streamlit.app/"),
-        ("🌳", "Árbol genealógico", "Añade familiares y descarga el PDF.", ""),
     ]),
     ("📚 Lengua", [
         ("📣", "Elementos de la comunicación", "Emisor, receptor, mensaje, canal, código y contexto.", "https://lengua3p-l1.streamlit.app/"),
@@ -23,12 +22,10 @@ MATERIAS = [
     ]),
     ("🇬🇧 Inglés", [
         ("🔤", "Abecedario en inglés", "Aprende el ABC y deletrea tu nombre.", "https://abcenglish.streamlit.app/"),
-        ("⚽", "Sports (Unit 1)", "Vocabulario do / play y lugares deportivos.", ""),
     ]),
     ("🌿 Conocimiento del Medio", [
         ("🌿", "Unidad 1", "Seres vivos, reinos y paisajes.", "https://conocimientodelmediou1.streamlit.app/"),
         ("📖", "Página 38", "Repaso de la página 38 del libro.", "https://conocimientopag38.streamlit.app/"),
-        ("🐾", "Animales · Practicar y avanzar", "Sentidos, alimentación, ovíparos y vivíparos.", ""),
     ]),
     ("🧚 Mente ágil", [
         ("🧚", "Reino de la Mente Ágil", "Emociones, concentración y juegos de memoria.", "https://agilidadmental.streamlit.app/"),
